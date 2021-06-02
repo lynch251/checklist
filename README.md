@@ -3,7 +3,7 @@ CONSIGNES D'UTILISATION
 
 Installer les dépendances données ci-dessous
 Ouvrir un terminal dans le répertoire de votre choix
-Saisir git clone git@gitlab.telecomnancy.univ-lorraine.fr:Pierre.Chupin/webbd-lab3.git
+Saisir git clone https://github.com/lynch251/checklist.git
 
 Saisir export FLASK_APP=run.py
 
